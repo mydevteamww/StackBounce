@@ -1,12 +1,12 @@
 {
   "background_color": "#ffffff",
-  "description": "Stack Bounce",
+  "description": "Stack:Bounce",
   "dir": "ltr",
   "display": "standalone",
-  "name": "StackBounce",
+  "name": "Stack:Bounce",
   "orientation": "any",
   "scope": "/",
-  "short_name": "StackBounce",
+  "short_name": "Stack:Bounce",
   "start_url": "/",
   "theme_color": "#ffffff",
   "categories": [
@@ -48,7 +48,7 @@
   ],
   "shortcuts": [
     {
-      "name": "StackBounce",
+      "name": "Stack:Bounce",
       "url": "",
       "description": ""
     }
