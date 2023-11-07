@@ -3,10 +3,10 @@
   "description": "Byte Brilliance",
   "dir": "ltr",
   "display": "standalone",
-  "name": "Stack & Bounce",
+  "name": "Stack Bounce",
   "orientation": "any",
   "scope": "/",
-  "short_name": "Stack & Bounce",
+  "short_name": "Stack Bounce",
   "start_url": "/",
   "theme_color": "#ffffff",
   "categories": [
@@ -48,7 +48,7 @@
   ],
   "shortcuts": [
     {
-      "name": "Stack & Bounce",
+      "name": "Stack Bounce",
       "url": "",
       "description": ""
     }
